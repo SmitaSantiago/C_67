@@ -1,3 +1,3 @@
 this is story
 
-this is
+this is new line
